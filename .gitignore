@@ -2,3 +2,6 @@ venv/
 .idea/
 airflow.db
 logs/
+.env
+dags/__pycache__/
+uri_generator.py
