@@ -3,5 +3,5 @@ venv/
 airflow.db
 logs/
 .env
-dags/__pycache__/
-uri_generator.py
+dags/__pycache__
+start.sh
